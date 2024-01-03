@@ -13,6 +13,3 @@ I'm a visiting assistant professor in political economy at the Technical Univers
 <a href="https://twitter.com/mariannasebo" target="_blank"><img src="https://img.shields.io/twitter/follow/mariannasebo?label=Follow" alt="Twitter"></a>
 <a href="https://www.linkedin.com/in/mariannaseb%C5%91/?originalSubdomain=es" target="_blank"><img src="https://img.shields.io/badge/Marianna%20Seb%C5%91-blue?style=flat-square&logo=Linkedin&logoColor=white" alt="LinkedIn"></a>
 <a href="mailto:marianna.sebo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%AC-Email-darkgreen" alt="Email"></a>
-
-___
-![visitors](https://img.shields.io/badge/dynamic/json?label=visitors&query=%24.visitors&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fmariannasebo%2Fmariannasebo)
