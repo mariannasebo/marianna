@@ -15,4 +15,4 @@ I'm a visiting assistant professor in political economy at the Technical Univers
 <a href="mailto:marianna.sebo@gmail.com" target="_blank"><img src="https://img.shields.io/badge/%F0%9F%93%AC-Email-darkgreen" alt="Email"></a>
 
 ___
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=mariannasebo.marianna)
+![visitors](https://img.shields.io/badge/dynamic/json?label=visitors&query=%24.visitors&url=https%3A%2F%2Fapi.countapi.xyz%2Fget%2Fmariannasebo%2Fmariannasebo)
